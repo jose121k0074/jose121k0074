@@ -34,6 +34,6 @@ He trabajado en una variedad de proyectos, desde aplicaciones web interactivas h
 Me apasiona explorar nuevas tecnologías y mejorar mis habilidades en el desarrollo web. Busco oportunidades para trabajar en proyectos desafiantes que impulsen mi crecimiento profesional y aporten valor a los usuarios.
 
 ### Contacto
-Puedes conectar conmigo a través de [Email](josedaniel.pucpoot@gmail.com).
+Puedes conectar conmigo a través de Email - josedaniel.pucpoot@gmail.com.
 
 ¡Gracias por visitar mi perfil de GitHub!
